@@ -1,7 +1,7 @@
 const setting = require('./storage.config')
 
 if (!setting.storagePrefix) {
-	throw new Error(`KSessionStorage: please create a storage.config.js see https://github.com/BIMiracle/KSessionStorage#usage`)
+	throw new Error(`k-sessionstorage: please create a storage.config.js see https://github.com/BIMiracle/k-sessionstorage#usage`)
 }
 
 let _sessionStorageSave

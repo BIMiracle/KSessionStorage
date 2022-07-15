@@ -1,11 +1,15 @@
-# KSessionStorage
+# k-sessionstorage
 
 enhanced sessionStorage(加强版 sessionStorage)
 
 # INSTALL
 
 ```bash
-npm install KSessionStorage
+npm i k-sessionstorage
+```
+or
+```bash
+pnpm i k-sessionstorage
 ```
 
 # USAGE
@@ -13,7 +17,7 @@ npm install KSessionStorage
 For Vue Project in main.js add
 
 ```js
-import 'KSessionStorage'
+import 'k-sessionstorage'
 ```
 
 create a `storage.config.js`

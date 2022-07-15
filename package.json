@@ -1,5 +1,5 @@
 {
-  "name": "ksessionstorage",
+  "name": "k-sessionstorage",
   "version": "1.0.0",
   "description": "enhanced sessionStorage(加强版 sessionStorage)",
   "main": "index.js",
@@ -8,10 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BIMiracle/KSessionStorage.git"
+    "url": "git+https://github.com/BIMiracle/k-sessionstorage.git"
   },
   "keywords": [
-    "KSessionStorage",
+		"k-sessionstorage",
+    "k-sessionstorage",
     "ksessionstorage",
     "sessionStorage",
     "sessionstorage",
@@ -20,7 +21,7 @@
   "author": "BIMiracle",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/BIMiracle/KSessionStorage/issues"
+    "url": "https://github.com/BIMiracle/k-sessionstorage/issues"
   },
-  "homepage": "https://github.com/BIMiracle/KSessionStorage#readme"
+  "homepage": "https://github.com/BIMiracle/k-sessionstorage#readme"
 }
